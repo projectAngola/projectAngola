@@ -1,6 +1,4 @@
-Aqui está o código completo em Markdown que você pode copiar e colar diretamente no seu `README.md`:
 
-```markdown
 # **Spotify Clone** 🎵
 
 ![Spotify Logo](https://user-images.githubusercontent.com/108229029/216750826-56af149d-648b-43a7-ac85-a0ebdf700645.png)
